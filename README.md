@@ -13,19 +13,19 @@ PyCharm: Integrated Development Environment (IDE) for Python development.<br>
 VSCode: Free and open-source code editor developed by Microsoft.
 <h2>Tools and Technologies</h2>
 <hr>
-<li>
-<ul>Django: Open-source web framework for Python.</ul>
-<ul>Tailwind CSS: Utility-first CSS framework.</ul>
-<ul>Graphene-Django: Python library for creating GraphQL APIs with Django.</ul>
-<ul>PostgreSQL: Powerful and extensible open-source relational database management system.</ul>
-<ul>GitHub: Version control and collaboration platform for software development.</ul>
-  </li>
+<ul>
+<li>Django: Open-source web framework for Python.</li>
+<li>Tailwind CSS: Utility-first CSS framework.</li>
+<li>Graphene-Django: Python library for creating GraphQL APIs with Django.</li>
+<li>PostgreSQL: Powerful and extensible open-source relational database management system.</li>
+<li>GitHub: Version control and collaboration platform for software development.</li>
+  </ul>
 <h2>APIs Used</h2>
 <hr>
-<li>
-<ul>WhatsApp Cloud API: Enables programmatic communication with users via WhatsApp.</ul>
-<ul>OpenWeather API: Provides current, historical, and forecasted weather data for thousands of cities.</ul>
-</li>
+<ul>
+<li>WhatsApp Cloud API: Enables programmatic communication with users via WhatsApp.</li>
+<li>OpenWeather API: Provides current, historical, and forecasted weather data for thousands of cities.</li>
+</ul>
 <br>
 We welcome contributions from the community! To contribute:
 <br>
